@@ -1,7 +1,7 @@
 body{padding: 0;
 margin: 0;
-background-image: url('XrgL6.jpg');
-background-size: cover
+
+
 }
 .carousel img{height: 500px;border-bottom:groove;}
 .carousel-item h4,p{font-weight: bold;color:white}
@@ -15,8 +15,12 @@ justify-content: center;
 text-align: center;box-shadow:inset -1px -2px 5px #bbf1fa;
 margin: auto; }
 
-.form .input{margin-bottom: 35px;margin-top: 10px;opacity: 0.7;}
-input{border-radius: 30px;width: 240px}
-label{font-size: 19px; color: #2d6187;font-weight: bold}
-.finaly{height: 60px;width: 100%;text-align: center;justify-content: center;opacity: 0.6 ;display: flex}
-.finaly h4{margin-top: 10px
+.form .input{margin-bottom: 35px;margin-top: 10px;}
+input{width: 240px}
+label{font-size: 19px; color: #555;font-weight: bold}
+.finaly{height: 105px;width: 100%;text-align: center;background-color: white;opacity: 0.8;
+justify-content: center;display: flex;color:white}
+.finaly h4{margin-top: 30px;color:#666;}
+.bg-dark {
+    background-color: #a3cad2;
+}
